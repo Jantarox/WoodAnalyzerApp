@@ -1,0 +1,6 @@
+[submodule "java"]
+	path = java
+	url = https://github.com/Jantarox/WoodAnalyser.git
+[submodule "python"]
+	path = python
+	url = https://github.com/Jantarox/WoodAnalyzerProcessor.git
